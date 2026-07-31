@@ -1,0 +1,32 @@
+# WARNING: Never edit this file.
+# It will be overwritten when translations are pulled from Crowdin.
+#
+# To work with us on translations, join this project:
+# https://translate.discourse.org/
+
+zh_CN:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          discourse_rss_polling: "Discourse RSS 轮询"
+  js:
+    rss_polling:
+      title: RSS 轮询
+    admin:
+      rss_polling:
+        author: 作者
+        feed_url: URL
+        discourse_category: 类别
+        discourse_tags: 标签
+        feeds:
+          edit: 编辑
+          delete: 删除
+          save: 保存
+          confirm_delete: "确定要删除此 Feed 吗？"
+        test:
+          title: 预览
+          dismiss: 关闭
+        status:
+          enabled: 已启用
+          disabled: 已禁用
